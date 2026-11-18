@@ -105,25 +105,15 @@ The project demonstrates server-side rendering, authentication, role-based acces
 
 ## Screenshots
 
-### Homepage
+### Main view
+![main-view](./docs/screenshots/main-view.png)
+![latest-messages](./docs/screenshots/latest-messages.png)
+![login](./docs/screenshots/login.png)
+![signup](./docs/screenshots/signup.png)
 
-Public message board displaying messages without author identities.
-
-### Registration and Login
-
-User registration and authentication interfaces.
-
-### Member Dashboard
-
-Authenticated message board displaying additional author information.
-
-### Create Message
-
-Interface for authenticated users to publish messages.
-
-### Administrative Interface
-
-Administrative message management interface.
+### Logged-in view
+![admin-view](./docs/screenshots/admin-view.png)
+![new-message](./docs/screenshots/new-message.png)
 
 ## Tech Stack
 
